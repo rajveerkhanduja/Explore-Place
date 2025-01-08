@@ -13,7 +13,7 @@ export default function PlaceItemBig({place}) {
             "?maxwidth=400" +
             "&photo_reference=" +
             place?.photos[0]?.photo_reference +
-            "&key=AIzaSyClQVMQ3tKZom-4ORyGP4ga5bfzNOLD5v4",
+            "&key=API_KEY",
         }}
         style={{width:"100%", height:180, borderRadius: 15}}/>:null}
         <Text style={{fontSize:18, marginTop:5, fontFamily:'raleway-bold'}}
