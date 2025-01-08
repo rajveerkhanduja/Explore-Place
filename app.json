@@ -21,7 +21,7 @@
         "backgroundColor": "#ffffff",
         "googleServicesFile": "./google-services.json",
         "package": "com.exploreplace.findplace",
-        "googleMapsApiKey": "AIzaSyClQVMQ3tKZom-4ORyGP4ga5bfzNOLD5v4"
+        "googleMapsApiKey": ""
       }
     },
     "web": {
