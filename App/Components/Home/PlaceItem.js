@@ -21,7 +21,7 @@ export default function PlaceItem({ place }) {
           "?maxwidth=400" +
           "&photo_reference=" +
           place?.photos[0]?.photo_reference +
-          "&key=AIzaSyClQVMQ3tKZom-4ORyGP4ga5bfzNOLD5v4",
+          "&key=API_KEY",
         }}
         style={{ width: 110, height: 110, borderRadius: 15 }}
       />:
